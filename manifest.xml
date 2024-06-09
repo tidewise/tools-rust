@@ -1,0 +1,12 @@
+<package>
+    <description brief="dummy package that install the Rust toolchain">
+    </description>
+    <maintainer>Sylvain Joyeux/sylvain.joyeux@tidewise.io</maintainer>
+    <copyright>
+        TideWise/sylvain.joyeux@tidewise.io
+    </copyright>
+    <license>GPL v3 or later</license>
+
+    <depend package="curl" />
+</package>
+
