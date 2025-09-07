@@ -8,5 +8,7 @@
     <license>GPL v3 or later</license>
 
     <depend package="curl" />
+
+    <tags>build-only</tags>
 </package>
 
